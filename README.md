@@ -5,15 +5,15 @@ Official processing site: https://processing.org/
 
 Explanation and commentary: <br/>
 
-After learning the beginning of a game previously. (Prototype: TestDevApp).
-I wanted to design another project here:
+After learning the beginning of a game previously. (Prototype: TestDevApp). <br/>
+I wanted to design another project here: <br/>
 
-Goal: You must catch the shuriken that falls from the top of the screen.
+Goal: You must catch the shuriken that falls from the top of the screen. <br/>
 
-Again, the structure is not OOP!
-Much easier (for me) and long to set up at the code level.
+Again, the structure is not OOP! <br/>
+Much easier (for me) and long to set up at the code level. <br/>
 
-That said I would like one day to learn this concept in order to improve my future projects and save more time.
+That said I would like one day to learn this concept in order to improve my future projects and save more time. <br/>
 
 How to compile:
 - Click on clone and download then download zip.
