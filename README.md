@@ -9,7 +9,7 @@ After learning the beginning of a game previously. (Prototype: TestDevApp). <br/
 I wanted to design another project here: <br/>
 
 Goal: You must catch the shuriken that falls from the top of the screen. <br/>
-![alt tag](http://imgur.com/CnF1eu0) <br/>
+![alt tag](http://i.imgur.com/CnF1eu0.png) <br/>
 Again, the structure is not OOP! <br/>
 Much easier (for me) and long to set up at the code level. <br/>
 
