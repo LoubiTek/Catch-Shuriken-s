@@ -9,7 +9,7 @@ After learning the beginning of a game previously. (Prototype: TestDevApp). <br/
 I wanted to design another project here: <br/>
 
 Goal: You must catch the shuriken that falls from the top of the screen. <br/>
-
+http://imgur.com/CnF1eu0
 Again, the structure is not OOP! <br/>
 Much easier (for me) and long to set up at the code level. <br/>
 
