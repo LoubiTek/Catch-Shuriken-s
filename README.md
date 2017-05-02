@@ -22,10 +22,10 @@ How to compile:
 - Cut / paste on desktop
 - Extract the zip
 - Click on the Catch-Shuriken-s-master folder and move the Catch-Shuriken-s-master folder to your desktop
-- Run Catch-Shuriken-s.pde, prompting you to create a new folder. Click Ok
+- Run CatchShurikens.pde, prompting you to create a new folder. Click Ok
 - Close the application
-- Cut / paste all .pde files into the new create folder name "Catch-Shuriken-s". As well as the data folder!
-- Click on the Catch-Shuriken-s folder and then restart Catch-Shuriken-s.pde
+- Cut / paste all .pde files into the new create folder name "CatchShurikens". As well as the data and Readme folder!
+- Click on the CatchShurikens folder and then restart CatchShurikens.pde
 - Execute and play
 
 Have Fun and Enjoy! <br/>
