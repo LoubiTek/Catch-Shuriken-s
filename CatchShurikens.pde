@@ -72,7 +72,7 @@ void LoadAudio()
 {
   minim = new Minim(this);
   Music_01 = minim.loadFile("LoubiTek-Eternal Love.mp3",256);
-  Sound_01 = minim.loadFile("Sound_01.mp3",256);
+  Sound_01 = minim.loadFile("Sound_01.wav",256);
 }
 
 // Settings
