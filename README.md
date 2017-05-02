@@ -9,7 +9,7 @@ After learning the beginning of a game previously. (Prototype: TestDevApp). <br/
 I wanted to design another project here: <br/>
 
 Goal: You must catch the shuriken that falls from the top of the screen. <br/>
-![alt tag](http://i.imgur.com/CnF1eu0.png) <br/>
+![alt tag](http://imgur.com/a/3yH2v) <br/>
 Again, the structure is not OOP! <br/>
 Much easier (for me) and long to set up at the code level. <br/>
 
@@ -26,5 +26,5 @@ How to compile:
 - Click on the Catch-Shuriken-s folder and then restart Catch-Shuriken-s.pde
 - Execute and play
 
-Have Fun and Enjoy!
+Have Fun and Enjoy! <br/>
 Thanks to Minim audio library for the use: http://code.compartmental.net/tools/minim/
