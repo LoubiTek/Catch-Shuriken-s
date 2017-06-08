@@ -11,7 +11,7 @@ int DevName_y = 0;
 int SpeedDevName_x = 3;
 int DevNamePos_x = DevName_x;
 
-String Explain = "<-(R) " +"MOVE"+ " (L)->" + " & R For REPLAY";
+String Explain = "<-(L) " +"MOVE"+ " (R)->" + " & R For REPLAY";
 int Explain_x = -286;
 int Explain_y = 710;
 int ExplainPos_x = Explain_x;
